@@ -1,15 +1,16 @@
-id: opecha:P007855
+id: P007855
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG5149
   title: ལང་ཚོའི་རྦབ་ཆུ་དང་ལྗགས་རྩོམ་བདམས་སྒྲིག
-  volume:
+  author: ''
+  volumes:
     d31f77035adb4e3d8dd6c9190a7bf475:
       image_group_id: I1KG5158
       title: Volume 1 of lang tsho'i rbab chu dang ljags rtsom bdams sgrig
       volume_number: 1
       total_pages: 262
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལང་ཚོའི་རྦབ་ཆུ་དང་ལྗགས་རྩོམ་བདམས་སྒྲིག
   author: ''
