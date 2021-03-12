@@ -5,11 +5,12 @@ source_metadata:
   title: ལང་ཚོའི་རྦབ་ཆུ་དང་ལྗགས་རྩོམ་བདམས་སྒྲིག
   author: ''
   volumes:
-    f26bf93ac91b46199ac23d779b475bd2:
+    d31f77035adb4e3d8dd6c9190a7bf475:
       image_group_id: I1KG5158
-      title: ''
+      title: Volume 1 of lang tsho'i rbab chu dang ljags rtsom bdams sgrig
       volume_number: 1
       total_pages: 262
+      base_file: v001.txt
 ebook_metadata:
   title: ལང་ཚོའི་རྦབ་ཆུ་དང་ལྗགས་རྩོམ་བདམས་སྒྲིག
   author: ''
